@@ -1,4 +1,4 @@
-# NNM_tutorials
+# NNM Tutorials
 
 ### Technopulse Slides (End to End tutorial)
 
