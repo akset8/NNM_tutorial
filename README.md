@@ -1,10 +1,8 @@
-# NNM Tutorials
+# NNM Tutorial
 
-### Technopulse Slides (End to End tutorial)
+### Slides (End to End tutorial)
 
 Slides - [NNM_Slides](https://github.ibm.com/DARVIZ/darviz/wiki/uploads/NNM_Watson_Studio.pptx)
-
-Box - [More Resources](https://ibm.box.com/v/nnm-technopulse)
 
 ### CIFAR-10 Datasets
 
